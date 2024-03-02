@@ -6,7 +6,7 @@ After you create your nuxt project, you need to add the vite-pwa package to the 
 
 ```npm install @vite-pwa/nuxt```
 
-Please give me ⭐️ me if this was helpful to you
+Please give me ⭐️ if this was helpful to you
 
 
 # Nuxt 3 Minimal Starter
